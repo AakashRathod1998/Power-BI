@@ -1,0 +1,5 @@
+#------------------------------Power BI--------------------------------
+
+These includes the Power BI worksamples that i have worked on while practicing.
+
+It is all based on mock data provided while pursuing Power BI courses.
