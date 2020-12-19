@@ -1,5 +1,7 @@
 #------------------------------Power BI--------------------------------
 
-These includes the Power BI worksamples that i have worked on while practicing.
+The sports folder includes Power Bi Project for 'Exploratory Data Analysis - Sports', in which the IPL dataset is used for analysis. 
+
+Also, these includes the Power BI worksamples that i have worked on while practicing.
 
 It is all based on mock data provided while pursuing Power BI courses.
